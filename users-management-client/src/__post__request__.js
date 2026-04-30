@@ -1,5 +1,5 @@
 /**
- * 1. for post ===> you have to mention the method.
+ * 
  * 2. add an object (fetch option) after the url of the fetch
  * 3. inside the object must mention the method: 'POST'
  * 4. mention the headers: which itself is an object
